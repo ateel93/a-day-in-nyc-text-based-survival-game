@@ -1,5 +1,4 @@
-# a-day-in-nyc
-## A text based survival game
+# A Day In NYC: A text based survival game
 
 Spending a day in NYC can be met with a lot of unforseen obsticles.
 In this game, you will be tasked with making a number of decisions on how to navigate through your morning commute. 
